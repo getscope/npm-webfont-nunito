@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Nunito';
+    src: local('Nunito Light'), local('Nunito-Light'),
+    url('../../fonts/nunito-300-normal.woff2') format('woff2'),
+    url('../../fonts/nunito-300-normal.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
